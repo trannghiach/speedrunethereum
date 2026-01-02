@@ -36,4 +36,4 @@ ALCHEMY_API_KEY=... (giống hệt cái Alchemy key bên trên)
 
 ![slide-images-8](https://github.com/user-attachments/assets/70368881-894e-428d-9637-3f253ffc6aac)
 
-- Cuối cùng deploy frontend lên Vercel bằng lệnh `yarn vercel` là có thể sử dụng
+- Cuối cùng deploy frontend lên Vercel bằng lệnh `yarn vercel` là có thể submit challenge
